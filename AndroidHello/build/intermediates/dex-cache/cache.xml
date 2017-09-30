@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_fd5d5664eeadedb4a3dee43155be6757ca6ed3d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_b88b5fdc3d5ecb2d5329ff2c53711e9bb0947888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_6a684ad1daee7edc752f48a4ff7d5d78ff677869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_f49238615fc3baa7b686a9aa93ad001dbdb4a2f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_1a2b2abf2e21d8c6ff365e9f175cb7ba5f075474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_aca325c739f311f693f7a38806624eacc326f10a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_623e4b8f93bc46e9a9c2c32fd8a5af941e908641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_e82a3529dd15c9d9006eae04de8cf1d1a6ba8b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_0a2089c10218e9e52856c82f02b57a82c6dd5822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_763458236ccf21a6ad4accb98c78b26f9b003c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_23081c92f1afadd085a442b6960627caaf34ef68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_84b661c502669f51b9efaaf61208d8cbb918f80b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/wangjingzhou/workspace/github/Android/AndroidHello/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_fa117d53d8e22709fd58890b24d6d966637958d1.jar" />
+    </item>
+
+</items>
