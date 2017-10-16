@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_more">MORE</string>
+    <string name="edit_message">ENTER A MESSAGE</string>
+    <string name="send">SEND</string>
+    <string name="dial">DIAL</string>
+    <string name="chooser_title">CHOOSE</string>
+    <string name="send_to">SEND TO</string>
+</resources>
